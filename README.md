@@ -1,6 +1,6 @@
 # Nome da sua Criptomoeda
 
-![Logo da Criptomoeda](link_para_a_imagem_do_logo.png)
+![Logo da Criptomoeda]([link_para_a_imagem_do_logo.png](https://drive.google.com/file/d/1LyCVFQ2o04WJYJN3TdtxWmhyfu7n354z/view?usp=drive_link))
 
 ## Visão Geral
 
